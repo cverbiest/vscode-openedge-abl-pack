@@ -1,0 +1,23 @@
+{
+  "name": "abl-developer-pack",
+  "displayName": "ABL Developer pack",
+  "description": "ABL Developer VsCode extension collection",
+  "publisher": "cverbiest",
+  "license": "MIT",
+  "repository": {"url": "https://github.com/cverbiest/abl-developer-pack.git"},
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [ "OpenEdge", "ABL", "4GL", "Progress"],
+  "extensionPack": [ 
+    "riversidesoftware.openedge-abl-lsp",
+    "riversidesoftware.sonarlint-abl",
+    "balticamadeus.pro-bro", 
+    "balticamadeus.pro-peek",
+    "kherring.ablunit-test-runner"
+  ]
+}
