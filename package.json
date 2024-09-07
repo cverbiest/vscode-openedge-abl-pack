@@ -4,13 +4,14 @@
   "description": "ABL Developer VsCode extension collection",
   "publisher": "cverbiest",
   "license": "MIT",
-  "repository": {"url": "https://github.com/cverbiest/abl-developer-pack.git"},
-  "version": "0.0.1",
+  "repository": {"url": "https://github.com/cverbiest/vscode-openedge-abl-pack"},
+  "icon": "vscode-openedge-abl-pack.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.92.0"
   },
   "categories": [
-    "Extension Packs"
+    "Extension Packs" 
   ],
   "keywords": [ "OpenEdge", "ABL", "4GL", "Progress"],
   "extensionPack": [ 

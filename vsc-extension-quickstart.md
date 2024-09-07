@@ -1,5 +1,7 @@
 # Welcome to your VS Code Extension Pack
 
+Development quick start quide
+
 ## What's in the folder
 
 * This folder contains all of the files necessary for your extension pack.
@@ -15,7 +17,23 @@
 * You can relaunch the extension from the debug toolbar after making changes to the files listed above.
 * You can also reload (`Ctrl+R` or `Cmd+R` on Mac) the VS Code window with your extension to load your changes.
 
+## Build
+
+´´´
+vsce package
+´´´
+
 ## Install your extension
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+* To share your extension with the world, read on <https://code.visualstudio.com/docs> about publishing an extension.
+
+## Publish
+
+´´´
+vsce package
+´´´
+
+## Docs
+
+* <https://mister-gold.pro/posts/create-vscode-extension-pack/>
