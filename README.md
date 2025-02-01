@@ -11,7 +11,7 @@ For more information visit the pages of the extensions contained in the pack.
 ### Riverside Software
 
 * [Riverside OpenEdge ABL](https://marketplace.visualstudio.com/items?itemName=RiversideSoftware.openedge-abl-lsp) : Build, editing, debugging
-* [Riverside CABL](<https://marketplace.visualstudio.com/items?itemName=RiversideSoftware.sonarlint-abl>) : fork of the official SonarQube for IDE extension by SonarSource to analyze OpenEdge ABL
+* [Riverside CABL](https://marketplace.visualstudio.com/items?itemName=RiversideSoftware.sonarlint-abl): Linting for OpenEdge ABL code
 
 ### Baltic Amadeus
 
