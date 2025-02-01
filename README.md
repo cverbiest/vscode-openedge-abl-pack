@@ -3,7 +3,7 @@
 This is a collection of ABL specific extensions.
 Building an extension pack is easy.
 
-Real credit should go to the people that do the hard work to make it possible to develop OpenEdge ABL in vscode. 
+Real credit should go to the people that do the hard work to make it possible to develop OpenEdge ABL in vscode.
 For more information visit the pages of the extensions contained in the pack.
 
 ## Extensions by publisher
@@ -11,7 +11,7 @@ For more information visit the pages of the extensions contained in the pack.
 ### Riverside Software
 
 * [Riverside OpenEdge ABL](https://marketplace.visualstudio.com/items?itemName=RiversideSoftware.openedge-abl-lsp) : Build, editing, debugging
-* [Riverside CABL](https://marketplace.visualstudio.com/items?itemName=RiversideSoftware.sonarlint-abl): Linting
+* [Riverside CABL](https://marketplace.visualstudio.com/items?itemName=RiversideSoftware.sonarlint-abl): Linting for OpenEdge ABL code
 
 ### Baltic Amadeus
 

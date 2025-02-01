@@ -1,6 +1,13 @@
-# Welcome to your VS Code Extension Pack
+# Extension maintainer readme
 
-Development quick start quide
+## Useful links
+
+* [fmn node env in vscode](https://github.com/Schniz/fnm/issues/1317)
+* [Publishing](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+
+## Welcome to your VS Code Extension Pack
+
+[Development quick start guide](https://code.visualstudio.com/api/get-started/your-first-extension)
 
 ## What's in the folder
 
@@ -19,7 +26,7 @@ Development quick start quide
 
 ## Build
 
-´´´
+´´´ pwsh
 vsce package
 ´´´
 
@@ -30,7 +37,7 @@ vsce package
 
 ## Publish
 
-´´´
+´´´ pwsh
 vsce package
 ´´´
 
