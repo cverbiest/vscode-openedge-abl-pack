@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {"url": "https://github.com/cverbiest/vscode-openedge-abl-pack"},
   "icon": "vscode-openedge-abl-pack.png",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -19,6 +19,7 @@
     "riversidesoftware.sonarlint-abl",
     "balticamadeus.pro-bro", 
     "balticamadeus.pro-peek",
+    "consultingwerkapplicationmodernizationsolutionsltd.oemanager",
     "kherring.ablunit-test-runner"
   ]
 }
