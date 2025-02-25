@@ -8,7 +8,7 @@
     "url": "https://github.com/cverbiest/vscode-openedge-abl-pack"
   },
   "icon": "vscode-openedge-abl-pack.png",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -27,19 +27,6 @@
     "balticamadeus.pro-bro",
     "balticamadeus.pro-peek",
     "consultingwerkapplicationmodernizationsolutionsltd.oemanager",
-    "kherring.ablunit-test-runner",
-    "benrogerswpg.websearchengine",
-    "bhughes339.replacerules",
-    "eamodio.gitlens",
-    "esbenp.prettier-vscode",
-    "jtr.vscode-position",
-    "magicshochu.grep",
-    "moshfeu.compare-folders",
-    "redhat.vscode-xml",
-    "rioj7.vscode-file-templates",
-    "spmeesseman.vscode-taskexplorer",
-    "stuart.unique-window-colors",
-    "tyriar.sort-lines",
-    "usernamehw.errorlens"
+    "kherring.ablunit-test-runner"
   ]
 }
