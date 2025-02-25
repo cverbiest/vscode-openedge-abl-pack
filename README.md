@@ -9,7 +9,7 @@ Building an extension pack is easy.
 Real credit should go to the people that do the hard work to make it possible to develop OpenEdge ABL in vscode.
 For more information visit the pages of the extensions contained in the pack.
 
-## Extensions by publisher
+## OpenEdge related Extensions by publisher
 
 ### Riverside Software
 
@@ -29,9 +29,29 @@ For more information visit the pages of the extensions contained in the pack.
 
 * [AblUnit](https://marketplace.visualstudio.com/items?itemName=kherring.ablunit-test-runner) : Testing
 
+## Non OpenEdge
+
+* Web search : search selected text on progress docs, google, ...
+* Task explorer : launch Tasks
+* Replace rules : Create rule(set) for certain replaces e.g remove user/domain from log file
+* Gitlens : In editor  git info
+* ErrorLens : In editor errors and warning info
+* Prettier formatter
+* vscode-position
+* Grep inside editor
+* Compare folders
+* File templates
+* RedHat XML
+* Unique colors for each Vscode workspace/folder
+* Sort lines
+
 **Enjoy!**
 
 ## History
+
+### Version 1.0.1
+
+* Open up to non OpenEdge extensions
 
 ### Version 1.0.0
 
