@@ -20,6 +20,7 @@ For more information visit the pages of the extensions contained in the pack.
 
 * [ProPeek](https://marketplace.visualstudio.com/items?itemName=BalticAmadeus.pro-peek) : consult OpenEdge profiler data
 * [ProBro](https://marketplace.visualstudio.com/items?itemName=BalticAmadeus.pro-bro) : Database viewer
+* [AblFormatter](https://marketplace.visualstudio.com/items?itemName=BalticAmadeus.openedge-abl-formatter) : Database viewer
 
 ### Consultingwerk
 
@@ -32,6 +33,10 @@ For more information visit the pages of the extensions contained in the pack.
 **Enjoy!**
 
 ## History
+
+### Version 1.2.0
+
+* Add Baltic Amadeus  ABL Formatter
 
 ### Version 1.1.1
 

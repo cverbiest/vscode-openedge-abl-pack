@@ -8,7 +8,7 @@
     "url": "https://github.com/cverbiest/vscode-openedge-abl-pack"
   },
   "icon": "vscode-openedge-abl-pack.png",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -26,6 +26,7 @@
     "riversidesoftware.sonarlint-abl",
     "balticamadeus.pro-bro",
     "balticamadeus.pro-peek",
+    "balticamadeus.openedge-abl-formatter",
     "consultingwerkapplicationmodernizationsolutionsltd.oemanager",
     "kherring.ablunit-test-runner"
   ]
