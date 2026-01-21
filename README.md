@@ -26,9 +26,9 @@ For more information visit the pages of the extensions contained in the pack.
 
 * [PASOE Manager Extension](https://marketplace.visualstudio.com/items?itemName=ConsultingwerkApplicationModernizationSolutionsLtd.oemanager)
 
-### Kenneth Herring
+### [@kenherring](https://github.com/kenherring)
 
-* [AblUnit](https://marketplace.visualstudio.com/items?itemName=kherring.ablunit-test-runner) : Testing
+* [ABLUnit Test Runner](https://marketplace.visualstudio.com/items?itemName=kherring.ablunit-test-runner) : Testing
 
 **Enjoy!**
 
